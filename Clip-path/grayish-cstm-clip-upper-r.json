@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "grayish-cstm-clip-upper-r",
+  "content": "<!-- wp:cover {\"overlayColor\":\"lt-nine-blue\",\"isDark\":false,\"align\":\"full\",\"style\":{\"spacing\":{\"blockGap\":\"0px\",\"margin\":{\"bottom\":\"0px\"}}},\"className\":\"cstm-blk-fullwide-inner cstm-clip-upper-r\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-cover alignfull is-light cstm-blk-fullwide-inner cstm-clip-upper-r\" style=\"margin-bottom:0px\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-lt-nine-blue-background-color has-background-dim-100 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|sdblue-fifty\"}}}},\"textColor\":\"sdblue-fifty\"} -->\n<p class=\"has-text-align-center has-sdblue-fifty-color has-text-color has-link-color\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}
